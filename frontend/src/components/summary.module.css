@@ -1,0 +1,22 @@
+.summary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.done {
+  color: rgb(53, 168, 82);
+  margin-right: 20px;
+}
+.todo {
+  color: rgb(226, 73, 73);
+}
+.allTasks {
+  color: rgb(73, 96, 226);
+  margin-right: 20px;
+}
+.text {
+  font-size: 1rem;
+  font-weight: bold;
+}

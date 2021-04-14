@@ -1,0 +1,19 @@
+.card {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 50%;
+}
+.date {
+  margin-right: 20px;
+  font-weight: bold;
+}
+.done {
+  background-color: rgba(132, 218, 147, 0.7);
+  border: 2px solid rgba(132, 218, 147, 1);
+}
+.todo {
+  background-color: rgba(221, 125, 125, 0.7);
+  border: 2px solid rgb(233, 131, 131);
+}
